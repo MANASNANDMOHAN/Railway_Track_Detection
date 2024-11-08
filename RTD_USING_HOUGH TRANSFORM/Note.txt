@@ -1,0 +1,9 @@
+#Note
+
+1. To further improve the accuracy of the detection, we can filter the lines detected by the Hough Transform. This can involve filtering based on:
+
+>Angle: Railway tracks tend to be relatively straight, so we can filter out lines that deviate significantly from a specified angle range.
+
+>Length: We can discard very short lines, which are unlikely to represent railway tracks.
+
+2.Hough Transform with masking & defining region of interest & using DBSCAN Clustering algorithm helped use to achieve a great result.
