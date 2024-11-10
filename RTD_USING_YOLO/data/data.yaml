@@ -1,0 +1,7 @@
+train: D:/CODE/Projects/Company_Project1/data/train/images
+val: D:/CODE/Projects/Company_Project1/data/valid/images
+test: D:/CODE/Projects/Company_Project1/data/test/images
+
+nc: 4
+names: ['track1', 'track2', 'track3', 'track4']
+
