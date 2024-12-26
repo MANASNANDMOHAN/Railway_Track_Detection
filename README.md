@@ -33,8 +33,7 @@ Conclusion
 This project demonstrates the effectiveness of various computer vision techniques for railway track detection. The best-performing method will depend on the specific application and the characteristics of the data.
 
 Future Work
-Future work could focus on:
-●
+ 
 Improving the accuracy and robustness of the existing methodologies.
 ●
 Developing new methodologies for detecting railway tracks in more challenging environments.
