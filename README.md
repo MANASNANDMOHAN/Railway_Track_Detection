@@ -1,6 +1,10 @@
-Railway Track Detection
+## Railway 🚆 Track Detection
+ Check out my article on **Railway Track Detection** on Medium:  
+[Railway 🚆 Track Detection](https://medium.com/@manasnandmohan/railway-%EF%B8%8F-%EF%B8%8F-track-detection-ae39a75bc010)
+
 This repository contains code and resources for railway track detection using various computer vision techniques.
 Methodologies
+
 The project explores several different approaches for detecting railway tracks in images and videos:
 ●
 Hough Transform: This classical computer vision technique identifies lines within images by transforming them into a parameter space where lines are represented as points. By detecting clusters of points in this parameter space, lines in the original image can be identified. This method is particularly well-suited for detecting straight lines, such as railway tracks.
@@ -32,14 +36,4 @@ The sources do not discuss quantitative results.
 Conclusion
 This project demonstrates the effectiveness of various computer vision techniques for railway track detection. The best-performing method will depend on the specific application and the characteristics of the data.
 
-Future Work
  
-Improving the accuracy and robustness of the existing methodologies.
-●
-Developing new methodologies for detecting railway tracks in more challenging environments.
-●
-Integrating the railway track detection system into real-world applications, such as train control systems or autonomous trains.
-References
-The project draws on several sources, including research papers, blog posts, and code repositories.  
-Contributing
-Contributions to the project are welcome. Please fork the repository and submit a pull request
